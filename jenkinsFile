@@ -2,7 +2,7 @@ pipeline {
   agent any
 
   environment {
-    FLUTTER_HOME = "D:\\flutter_dev\\flutter"
+    FLUTTER_HOME = "C:\\Users\\Abubakar\\develop\\flutter"
     PATH = "${FLUTTER_HOME}\\bin;${env.PATH}"
   }
 
