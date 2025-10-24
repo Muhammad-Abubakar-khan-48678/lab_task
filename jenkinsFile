@@ -1,4 +1,4 @@
-FlUTTER pipeline {
+pipeline {
   agent any
 
   environment {
